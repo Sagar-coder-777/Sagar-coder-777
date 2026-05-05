@@ -4,21 +4,21 @@
 ---
 
 # 🔥 About Me  
-🎓 BA Student passionate about Data Analytics & AI  
-📊 Skilled in Python, Pandas, NumPy, Matplotlib, Seaborn, SQL, Excel 
-🧩 Good problem-solving mindset & analytical thinking  
-📈 Interested in Data Visualization, Machine Learning, and Automation  
-⚡ Typing Speed: 35+ WPM  
+* 🎓 BA Student passionate about Data Analytics & AI  
+* 📊 Skilled in Python, Pandas, NumPy, Matplotlib, Seaborn, SQL, Excel 
+* 🧩 Good problem-solving mindset & analytical thinking  
+* 📈 Interested in Data Visualization, Machine Learning, and Automation  
+* ⚡ Typing Speed: 35+ WPM  
 
 ---
 
 # 🛠️ Skills  
-🐍 Python  
-🗄️ SQL  
-📊 Excel (Advanced)  
-📈 Power BI  
-📉 Data Visualization  
-🤖 Basic Machine Learning  
+* 🐍 Python  
+* 🗄️ SQL  
+* 📊 Excel (Advanced)  
+* 📈 Power BI  
+* 📉 Data Visualization  
+* 🤖 Basic Machine Learning  
 
 # 🚀 Projects
 # 🔹 Python Projects
