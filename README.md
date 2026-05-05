@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Sagar
-💡 Data Analyst | Python | SQL | Excel | Power BI | R Programming | Turning Raw Data into Actionable Insights  
+💡 Data Analyst | Python | SQL | Excel | Power BI | R Programming | Turning Raw Data into Meaningful Insights  
 
 ---
 
