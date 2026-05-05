@@ -1,9 +1,9 @@
-## 👋 Hi, I'm Sagar
+# 👋 Hi, I'm Sagar
 💡 Data Analyst | Python | SQL | Excel | Power BI | R Programming | Turning Raw Data into Actionable Insights  
 
 ---
 
-# 🔥 About Me  
+## 🔥 About Me  
 * 🎓 BA Student passionate about Data Analytics & AI  
 * 📊 Skilled in Python, Pandas, NumPy, Matplotlib, Seaborn, SQL, Excel 
 * 🧩 Good problem-solving mindset & analytical thinking  
@@ -12,7 +12,7 @@
 
 ---
 
-# 🛠️ Skills  
+## 🛠️ Skills  
 * 🐍 Python  
 * 🗄️ SQL  
 * 📊 Excel (Advanced)  
@@ -20,7 +20,7 @@
 * 📉 Data Visualization  
 * 🤖 Basic Machine Learning  
 
-# 🚀 Projects
+## 🚀 Projects
 # 🔹 Python Projects
 * [First_Project](https://github.com/Sagar-coder-777/Famous_Python_Questions) – A collection of all trending python questions for better understanding in python
 <!--
