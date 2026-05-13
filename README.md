@@ -16,9 +16,10 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Data Visualization](https://img.shields.io/badge/Data%20Visualization-FF6F00?style=for-the-badge&logo=chartdotjs&logoColor=white) ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
 
-## 🚀 Projects
-# 🔹 Python Projects
+# 🚀 Projects
+## 🔹 Python Projects
 * [First_Project](https://github.com/Sagar-coder-777/Famous_Python_Questions) – A collection of all trending python questions for better understanding in python
+
 * [ecommerce-sales](https://github.com/Sagar-coder-777/project-1) - 🛒 E-Commerce Sales Analysis project using Python for deep insights into sales, profit, customers, products, and business performance.
 <!--
 **Sagar-coder-777/Sagar-coder-777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
