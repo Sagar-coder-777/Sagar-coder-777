@@ -36,7 +36,7 @@
 
 * [ecommerce-sales](https://github.com/Sagar-coder-777/project-1) - 🛒 E-Commerce Sales Analysis project using Python for deep insights into sales, profit, customers, products, and business performance.
 
-* [product_analysis](https://github.com/Sagar-coder-777/Electronic-product-eda) - "Product analysis and EDA on electronics products dataset to explore trends, pricing, and category-wise insights.
+* [Electronics-product-eda](https://github.com/Sagar-coder-777/Electronics-product-eda) - "Product analysis and EDA on electronics products dataset to explore trends, pricing, and category-wise insights.
 <!--
 **Sagar-coder-777/Sagar-coder-777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
