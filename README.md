@@ -35,6 +35,8 @@
 * [First_Project](https://github.com/Sagar-coder-777/Famous_Python_Questions) – A collection of all trending python questions for better understanding in python
 
 * [ecommerce-sales](https://github.com/Sagar-coder-777/project-1) - 🛒 E-Commerce Sales Analysis project using Python for deep insights into sales, profit, customers, products, and business performance.
+
+* [product_analysis](https://github.com/Sagar-coder-777/Electronic-product-eda) - "Product analysis and EDA on electronics products dataset to explore trends, pricing, and category-wise insights.
 <!--
 **Sagar-coder-777/Sagar-coder-777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
